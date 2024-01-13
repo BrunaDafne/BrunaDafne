@@ -1,8 +1,8 @@
-# Bruna Dafne - Front-end Developer
+# Bruna Dafne - Software Developer
 
 ### Hello world!  👩🏻‍💻 🚀
 
-#### My name is Bruna and I'm currently a web and mobile front-end developer. My focus is on javascript frameworks such as React and React Native. I love technologies and learning new things, welcome!
+#### My name is Bruna and I'm currently a web and mobile developer. My focus is on javascript frameworks such as React and React Native. I love technologies and learning new things, welcome!
 
 <hr>
 
@@ -23,6 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="60" width="60" />
+
 </div>
 
 <br>
